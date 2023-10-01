@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../front-end mentor/product-preview-card-component-main/images"
+		},
+		{
+			"name": "front-end mentor project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front-end mentor project"
+	}
+}
